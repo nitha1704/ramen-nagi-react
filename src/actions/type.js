@@ -1,0 +1,13 @@
+export const IMAGE_EXPANDED_MENU_ACTION = 'image_expanded_menu_action';
+export const LIST_EXPANDED_MENU_ACTION = 'list_expanded_menu_action';
+export const MENU_FETCH = 'menu_fetch';
+export const TOTAL_ORDER_FETCH = 'total_order_fetch';
+export const TOTAL_ORDER_GET_ID = 'total_order_get_id';
+export const PRODUCT_FETCH = 'PRODUCT_FETCH';
+export const PRODUCTS_FETCH = 'PRODUCTS_FETCH';
+export const PRODUCTS_CREATE = 'PRODUCTS_CREATE';
+export const PRODUCTS_EDIT = 'PRODUCTS_EDIT';
+export const PRODUCTS_CLEAR = 'PRODUCTS_CLEAR';
+export const PRODUCTS_GET_ID = 'PRODUCTS_GET_ID';
+export const CONTACT_SUBMIT = 'CONTACT_SUBMIT';
+export const CONTACT_INITIAL = 'CONTACT_INITIALsssss';
