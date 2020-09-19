@@ -73,7 +73,7 @@ class Home extends React.Component {
                 <section className="home-section1">
                     <div className="home-section1-overlay"></div>
                     <div className="home-section1-item1">
-                        <p>Ramen and BeyondXXYYZ</p>
+                        <p>Ramen and BeyondXXYYZB</p>
                     </div>
                 </section>
 
