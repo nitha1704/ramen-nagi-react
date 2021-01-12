@@ -1164,12 +1164,9 @@ footer hr {
 }
 
 /* Safary Only */
-@media screen and (min-color-index: 0) and(-webkit-min-device-pixel-ratio:0) {
+
+@media not all and (min-resolution: 0.001dpcm) {
   @media {
-    /*
-      Define here the CSS styles applied only to Safari browsers
-      (any version and any device)
-     */
     .home-section1-item1 p {
       color: red !important;
     }
